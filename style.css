@@ -15,13 +15,6 @@ body {
     font-family: "Source Code Pro", monospace;
 }
 
-@keyframes typing {
-    to {
-        left: 100%;
-    }
-}
-
-
 @keyframes blink {
     to {
         opacity: 0;
